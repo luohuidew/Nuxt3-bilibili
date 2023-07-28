@@ -1,8 +1,6 @@
 <template>
   <!-- 公共头部 -->
-
   <AppHeader />
-
   <!-- 频道模块 -->
   <van-tabs>
     <van-tab v-for="item in chnnelList" :key="item.id" :title="item.name" />
