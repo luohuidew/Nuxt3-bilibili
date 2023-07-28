@@ -1,7 +1,4 @@
 <template>
-  <!-- 路由链接 -->
-  <NuxtLink to="/">首页</NuxtLink>
-  <NuxtLink to="/video">视频页</NuxtLink>
   <!-- 页面路由 -->
   <NuxtPage />
 </template>
@@ -17,7 +14,9 @@ useSeoMeta({
 })
 </script>
 
-<style>
+<style lang="scss">
+@import './assets/styles/base.scss';
+@import './assets/styles/iconfont.scss';
 :root {
   --van-primary-color: #fb7299 !important;
   --van-back-top-background: #fbfbfb !important;
