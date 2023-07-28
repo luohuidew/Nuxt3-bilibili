@@ -1,6 +1,7 @@
 <template>
   <!-- 页面路由 -->
-  <NuxtPage />
+  <!-- 缓存10级页面，提升用户切换体验 -->
+  <NuxtPage :keepalive="{ max: 10 }" />
 </template>
 <script lang="ts" setup>
 useSeoMeta({
