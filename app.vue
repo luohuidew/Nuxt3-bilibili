@@ -22,6 +22,7 @@ useSeoMeta({
 @import './assets/styles/iconfont.scss';
 :root {
   --van-primary-color: #fb7299 !important;
+
   --van-back-top-background: #fbfbfb !important;
   --van-back-top-text-color: #666 !important;
 }

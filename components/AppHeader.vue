@@ -6,9 +6,9 @@
     <a class="search" href="#">
       <i class="iconfont ic_search_tab"></i>
     </a>
-    <a class="face" href="#">
+    <NuxtLink class="face" to="/login/logintel">
       <img src="@/assets/images/login.png" />
-    </a>
+    </NuxtLink>
     <div class="down-app">下载 APP</div>
   </header>
 </template>
