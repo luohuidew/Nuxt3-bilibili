@@ -1,0 +1,22 @@
+export default [
+  { id: 1, country: '中国大陆', tel: '+86' },
+  { id: 2, country: '中国香港特别行政区', tel: '+852' },
+  { id: 3, country: '中国澳门特别行政区', tel: '+853' },
+  { id: 4, country: '中国台湾', tel: '+886' },
+  { id: 5, country: '美国', tel: '+1' },
+  { id: 6, country: '英国', tel: '+44' },
+  { id: 7, country: '德国', tel: '+49' },
+  { id: 8, country: '法国', tel: '+33' },
+  { id: 9, country: '澳大利亚', tel: '+61' },
+  { id: 10, country: '印度', tel: '+91' },
+  { id: 11, country: '加拿大', tel: '+1' },
+  { id: 12, country: '日本', tel: '+81' },
+  { id: 13, country: '韩国', tel: '+82' },
+  { id: 14, country: '巴西', tel: '+55' },
+  { id: 15, country: '俄罗斯', tel: '+7' },
+  { id: 16, country: '南非', tel: '+27' },
+  { id: 17, country: '新加坡', tel: '+65' },
+  { id: 18, country: '阿联酋', tel: '+971' },
+  { id: 19, country: '沙特阿拉伯', tel: '+966' },
+  { id: 20, country: '墨西哥', tel: '+52' }
+]
