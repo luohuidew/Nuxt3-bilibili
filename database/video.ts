@@ -8,6 +8,8 @@ export default [
     pubdate: 1690181679,
     ctime: 1690181679,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-10.bilivideo.com/upgcxcode/46/36/1208033646/1208033646-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690627813&gen=playurlv2&os=bcache&oi=1701507005&trid=0000f15bafbd5fd141fab82e572ac71a2a5ch&mid=229444927&platform=html5&upsig=14985700c579abb0a6f02e957a4a0d00&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=3229&bvc=vod&nettype=0&bw=39760&logo=80000000',
     duration: 2208,
     author: {
       mid: 1446209135,
@@ -43,6 +45,8 @@ export default [
     pubdate: 1690193700,
     ctime: 1690172170,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-12.bilivideo.com/upgcxcode/10/56/1207865610/1207865610-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690627867\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=00007d36d38ce7c34155bc4f37e192aa9984h\u0026mid=229444927\u0026platform=html5\u0026upsig=5fb3cbb6c74bdfdb53d19ceb2a693613\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3231\u0026bvc=vod\u0026nettype=0\u0026bw=41305\u0026logo=80000000',
     duration: 912,
     author: {
       mid: 517450185,
@@ -79,6 +83,8 @@ export default [
     ctime: 1690172997,
     tags: [],
     duration: 636,
+    video_url:
+      'https://cn-bj-cc-03-17.bilivideo.com/upgcxcode/69/87/1207878769/1207878769-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628024\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000aefa2e056712484f9873c62294243200h\u0026mid=229444927\u0026platform=html5\u0026upsig=ada56ec3421ba3d6db89151948e0c2a5\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3236\u0026bvc=vod\u0026nettype=0\u0026bw=45893\u0026logo=80000000',
     author: {
       mid: 392315032,
       name: '平原小狐',
@@ -112,6 +118,8 @@ export default [
     title: '曝光造假臭豆腐？事实究竟如何？',
     pubdate: 1690204900,
     ctime: 1690204901,
+    video_url:
+      'https://cn-bj-cc-03-06.bilivideo.com/upgcxcode/28/88/1208508828/1208508828-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628096\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=000076773a2dc933485fb24b755b25e3f1e3h\u0026mid=229444927\u0026platform=html5\u0026upsig=c57f5b749c592f72c3ab543e3fd3bf36\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3225\u0026bvc=vod\u0026nettype=0\u0026bw=50130\u0026logo=80000000',
     tags: [],
     duration: 163,
     author: {
@@ -148,6 +156,8 @@ export default [
     pubdate: 1690196129,
     ctime: 1690195628,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-18.bilivideo.com/upgcxcode/69/34/1208303469/1208303469-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628185\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000c4dbb0c66d8240c5af924b7e663a3dbbh\u0026mid=229444927\u0026platform=html5\u0026upsig=15e84666924c2864440108444464978b\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3237\u0026bvc=vod\u0026nettype=0\u0026bw=49417\u0026logo=80000000',
     duration: 216,
     author: {
       mid: 3493077696121618,
@@ -182,6 +192,8 @@ export default [
     title: '我们五个太有手法啦！',
     pubdate: 1690194211,
     ctime: 1690194211,
+    video_url:
+      'https://cn-bj-cc-03-06.bilivideo.com/upgcxcode/27/20/1208292027/1208292027-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628224\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000a12ab1c227234585b02b6c62da958ba2h\u0026mid=229444927\u0026platform=html5\u0026upsig=b1a245973cdc6c154cdcd90803143133\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3225\u0026bvc=vod\u0026nettype=0\u0026bw=49664\u0026logo=80000000',
     tags: [],
     duration: 299,
     author: {
@@ -218,6 +230,8 @@ export default [
     pubdate: 1690103100,
     ctime: 1690087916,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-16.bilivideo.com/upgcxcode/72/12/1206681272/1206681272-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628283\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=000061df6aa21e12429389ed663303c225d8h\u0026mid=229444927\u0026platform=html5\u0026upsig=2322a6f0aa860944f8af9b5a171de3a5\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3235\u0026bvc=vod\u0026nettype=0\u0026bw=50655\u0026logo=80000000',
     duration: 221,
     author: {
       mid: 5294454,
@@ -253,6 +267,8 @@ export default [
     pubdate: 1690014600,
     ctime: 1690003239,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-01.bilivideo.com/upgcxcode/64/64/1205566464/1205566464-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628317\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000b2376f0318a242c2956b0f9a4c3ab8e4h\u0026mid=229444927\u0026platform=html5\u0026upsig=2d8ed4ae648f7cfdb59f01847ac1d5ce\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3220\u0026bvc=vod\u0026nettype=0\u0026bw=49803\u0026logo=80000000',
     duration: 618,
     author: {
       mid: 447317111,
@@ -288,6 +304,8 @@ export default [
     pubdate: 1690156133,
     ctime: 1690156133,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-15.bilivideo.com/upgcxcode/09/56/1207295609/1207295609-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628346\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000f12841ffb7394f42811ead6a32b2a48bh\u0026mid=229444927\u0026platform=html5\u0026upsig=73f5cc083ee2eaa6ca5ffb55aa2ed64a\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3234\u0026bvc=vod\u0026nettype=0\u0026bw=50798\u0026logo=80000000',
     duration: 296,
     author: {
       mid: 485666354,
@@ -323,6 +341,8 @@ export default [
     pubdate: 1690175701,
     ctime: 1690175701,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-15.bilivideo.com/upgcxcode/91/40/1207484091/1207484091-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628382\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=00003d65ab4d8a6c4442b4e64d73953c25d4h\u0026mid=229444927\u0026platform=html5\u0026upsig=7414ae58301afcedea6ac21f9696130e\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3234\u0026bvc=vod\u0026nettype=0\u0026bw=53142\u0026logo=80000000',
     duration: 6432,
     author: {
       mid: 3670216,
@@ -358,6 +378,8 @@ export default [
     pubdate: 1690181305,
     ctime: 1690181305,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-01.bilivideo.com/upgcxcode/68/77/1208047768/1208047768-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628419\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=000050c0f11ac9954ed98fb570d9b3ba3ee5h\u0026mid=229444927\u0026platform=html5\u0026upsig=81920308cd05596d4a18fdb817a1ee49\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3220\u0026bvc=vod\u0026nettype=0\u0026bw=50325\u0026logo=80000000',
     duration: 122,
     author: {
       mid: 1466167998,
@@ -393,6 +415,8 @@ export default [
     pubdate: 1690197972,
     ctime: 1690197973,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-15.bilivideo.com/upgcxcode/04/34/1208383404/1208383404-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628444\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000f9375aa258574ef5bd5dfb0c07b172b8h\u0026mid=229444927\u0026platform=html5\u0026upsig=5bde92b2cb4f6ba9aca4af18b831b3b2\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3234\u0026bvc=vod\u0026nettype=0\u0026bw=40413\u0026logo=80000000',
     duration: 141,
     author: {
       mid: 614995008,
@@ -426,6 +450,8 @@ export default [
     pic: 'http://i0.hdslb.com/bfs/archive/700a82d116bc1be697dbed1d25b2fee58ce14205.jpg',
     title: '战力评级 | 暗裔究竟有多强？剑魔排第二，第一败于瑞兹？',
     pubdate: 1690182493,
+    video_url:
+      'https://cn-bj-cc-03-06.bilivideo.com/upgcxcode/45/71/1208067145/1208067145-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628474\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000bdac475f1d3948b9871c6ad60875a16ch\u0026mid=229444927\u0026platform=html5\u0026upsig=0953f17a6f5b4725061f3a08446bc52a\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3225\u0026bvc=vod\u0026nettype=0\u0026bw=50831\u0026logo=80000000',
     ctime: 1690182493,
     tags: [],
     duration: 1197,
@@ -463,6 +489,8 @@ export default [
     pubdate: 1690209509,
     ctime: 1690209509,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-16.bilivideo.com/upgcxcode/03/65/1208626503/1208626503-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628504\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=00000a37a3ea8da54018b6050dd4e2dc5d12h\u0026mid=229444927\u0026platform=html5\u0026upsig=41b1cfddc641e8e7ccce3ea1142f20b2\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3235\u0026bvc=vod\u0026nettype=0\u0026bw=49328\u0026logo=80000000',
     duration: 184,
     author: {
       mid: 547072854,
@@ -498,6 +526,8 @@ export default [
     pubdate: 1690020000,
     ctime: 1689940155,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-03.bilivideo.com/upgcxcode/51/90/1204819051/1204819051-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690628553\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=00000ad0c81b480e46c8945b5b7730458de0h\u0026mid=229444927\u0026platform=html5\u0026upsig=44eadcbcd6233a72dd89de6bdb30b233\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3222\u0026bvc=vod\u0026nettype=0\u0026bw=49983\u0026logo=80000000',
     duration: 462,
     author: {
       mid: 406636263,
@@ -534,6 +564,8 @@ export default [
     pubdate: 1690190100,
     ctime: 1690179098,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-16.bilivideo.com/upgcxcode/11/47/1207974711/1207974711-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629009\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000f8d7c7fcfdcc48e4b6b8169839434622h\u0026mid=229444927\u0026platform=html5\u0026upsig=c804119a183864f7766751b66d200d02\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3235\u0026bvc=vod\u0026nettype=0\u0026bw=50841\u0026logo=80000000',
     duration: 104,
     author: {
       mid: 1614789471,
@@ -569,6 +601,8 @@ export default [
     pubdate: 1690184292,
     ctime: 1690184292,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-07.bilivideo.com/upgcxcode/80/86/1208108680/1208108680-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629042\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000d7c6c4ea85a4480e9e87568165cae3e2h\u0026mid=229444927\u0026platform=html5\u0026upsig=1da711f3729cf2700d77dbc4108009a5\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3226\u0026bvc=vod\u0026nettype=0\u0026bw=46701\u0026logo=80000000',
     duration: 210,
     author: {
       mid: 145750219,
@@ -604,6 +638,8 @@ export default [
     pubdate: 1690086041,
     ctime: 1690086041,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-05.bilivideo.com/upgcxcode/45/62/1206686245/1206686245-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629069\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=00008f7a473706764c359e5213f488017538h\u0026mid=229444927\u0026platform=html5\u0026upsig=12ffea377e55e3a84b4bbfc6a91693c9\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3224\u0026bvc=vod\u0026nettype=0\u0026bw=44306\u0026logo=80000000',
     duration: 107,
     author: {
       mid: 10949665,
@@ -639,6 +675,8 @@ export default [
     pubdate: 1690200900,
     ctime: 1690193775,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-04.bilivideo.com/upgcxcode/99/21/1208202199/1208202199-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629099\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=000033a1783a78ed4d42a8800193f68e7495h\u0026mid=229444927\u0026platform=html5\u0026upsig=f7e798456208c352d5485e6936ab7e2c\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3223\u0026bvc=vod\u0026nettype=0\u0026bw=49173\u0026logo=80000000',
     duration: 56,
     author: {
       mid: 32820037,
@@ -674,6 +712,8 @@ export default [
     pubdate: 1690175775,
     ctime: 1690175775,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-11.bilivideo.com/upgcxcode/76/55/1207945576/1207945576-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629125\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=00001274f4d0940147499d37c39cb20ac82bh\u0026mid=229444927\u0026platform=html5\u0026upsig=540236b678747ecb9c0a54efbde76ae6\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3230\u0026bvc=vod\u0026nettype=0\u0026bw=49166\u0026logo=80000000',
     duration: 71,
     author: {
       mid: 605632944,
@@ -709,6 +749,8 @@ export default [
     pubdate: 1690050269,
     ctime: 1690050269,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-02.bilivideo.com/upgcxcode/54/79/1206397954/1206397954-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629159\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000edcdf90b4d2c4263b89d3245b7ae18f4h\u0026mid=229444927\u0026platform=html5\u0026upsig=2a40138519d2a9aade8776b87de3e108\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3221\u0026bvc=vod\u0026nettype=0\u0026bw=49820\u0026logo=80000000',
     duration: 293,
     author: {
       mid: 550522006,
@@ -744,6 +786,8 @@ export default [
     pubdate: 1689988145,
     ctime: 1689988145,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-09.bilivideo.com/upgcxcode/30/40/185804030/185804030_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629188\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000a898ade0cd2a4d7ba110c9f31e097058h\u0026mid=229444927\u0026platform=html5\u0026upsig=d9588ada16977583d686edc49a998a9d\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3228\u0026bvc=vod\u0026nettype=0\u0026bw=28509\u0026logo=80000000',
     duration: 220,
     author: {
       mid: 1930903208,
@@ -779,6 +823,8 @@ export default [
     pubdate: 1690171200,
     ctime: 1690122158,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-15.bilivideo.com/upgcxcode/68/44/1207984468/1207984468-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629232\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000660c77df0b1a423285121070b30a051bh\u0026mid=229444927\u0026platform=html5\u0026upsig=1ae607a702cbe4565b34aa95320afb9a\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3234\u0026bvc=vod\u0026nettype=0\u0026bw=17718\u0026logo=80000000',
     duration: 188,
     author: {
       mid: 266908282,
@@ -849,6 +895,8 @@ export default [
     pubdate: 1689993120,
     ctime: 1689940505,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-17.bilivideo.com/upgcxcode/45/05/1204840545/1204840545-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629269\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=000095349ce64c0842a9b1e96a3470c0659eh\u0026mid=229444927\u0026platform=html5\u0026upsig=635957937717889b395252234b077cf3\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3236\u0026bvc=vod\u0026nettype=0\u0026bw=30072\u0026logo=80000000',
     duration: 404,
     author: {
       mid: 270885164,
@@ -884,6 +932,8 @@ export default [
     pubdate: 1690190302,
     ctime: 1690190302,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-15.bilivideo.com/upgcxcode/93/97/1208209793/1208209793-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629300\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=00006a58e88ffd3b460587e63bc4da204203h\u0026mid=229444927\u0026platform=html5\u0026upsig=24b19aae45712f5a5ccd8ca8a8e822de\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3234\u0026bvc=vod\u0026nettype=0\u0026bw=49686\u0026logo=80000000',
     duration: 941,
     author: {
       mid: 29296192,
@@ -919,6 +969,8 @@ export default [
     pubdate: 1690034400,
     ctime: 1689578584,
     tags: [],
+    video_url:
+      'https://cn-bj-cc-03-04.bilivideo.com/upgcxcode/39/97/1206009739/1206009739-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=\u0026uipk=5\u0026nbs=1\u0026deadline=1690629331\u0026gen=playurlv2\u0026os=bcache\u0026oi=1701507005\u0026trid=0000a8186015322b4287acf698b812835d0ch\u0026mid=229444927\u0026platform=html5\u0026upsig=3d7a9023fa263e8f86aae67f2b855457\u0026uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform\u0026cdnid=3223\u0026bvc=vod\u0026nettype=0\u0026bw=82115\u0026logo=80000000',
     duration: 220,
     author: {
       mid: 403748305,

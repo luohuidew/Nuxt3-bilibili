@@ -36,4 +36,5 @@ export interface VideoItem {
   corner_mark: number
   bvid: string
   enable_vt: number
+  video_url?: string
 }

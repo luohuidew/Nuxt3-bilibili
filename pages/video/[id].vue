@@ -13,7 +13,7 @@
         @play="onPlay"
         @pause="onPause"
         :poster="detail?.pic"
-        src="https://video.pearvideo.com/mp4/third/20230706/cont-1784445-12033417-151259-hd.mp4"
+        :src="'https://video.pearvideo.com/mp4/third/20230706/cont-1784445-12033417-151259-hd.mp4'"
       ></video>
     </van-barrage>
   </van-sticky>
@@ -62,7 +62,7 @@ const onPause = () => {
 // 通过路由参数获取视频id
 const { params } = useRoute()
 const { data: detail } = await useFetch(`/api/video/${params.id}`)
-// console.log(detail)
+console.log(detail)
 
 // 获取视频列表数据
 const { data: videoList } = await useFetch('/api/video')

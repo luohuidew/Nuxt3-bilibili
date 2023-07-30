@@ -33,14 +33,19 @@
           >注册</van-button
         >
       </nuxt-link>
-      <nuxt-link to="/">
+      <nuxt-link to="/user">
         <van-button type="primary" native-type="submit"> 登录</van-button>
       </nuxt-link>
     </div>
   </van-form>
-  <div class="notify" style="color: #fb7299">
+  <div class="notify" style="text-align: center; color: #757575; margin-top: 26px">
     <p style="font-size: 12px">未注册过哗哩哗哩的手机号，我们将自动帮你注册账号</p>
-    <p style="font-size: 12px">登录或完成注册即代表你同意用户协议和隐私政策</p>
+    <p style="font-size: 12px">
+      登录或完成注册即代表你同意<span style="color: #fb7299">用户协议</span>和<span
+        style="color: #fb7299"
+        >隐私政策</span
+      >
+    </p>
   </div>
 </template>
 

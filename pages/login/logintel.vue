@@ -43,10 +43,15 @@
       <van-button block type="primary" native-type="submit"> 登录/注册 </van-button>
     </div>
   </van-form>
-
-  <span>
-    未注册过哗哩哗哩的手机号，我们将自动帮你注册账号登录或完成注册即代表你同意用户协议和隐私政策
-  </span>
+  <div class="notify" style="text-align: center; color: #757575; margin-top: 26px">
+    <p style="font-size: 12px">未注册过哗哩哗哩的手机号，我们将自动帮你注册账号</p>
+    <p style="font-size: 12px">
+      登录或完成注册即代表你同意<span style="color: #fb7299">用户协议</span>和<span
+        style="color: #fb7299"
+        >隐私政策</span
+      >
+    </p>
+  </div>
 </template>
 
 <script lang="ts" setup>
